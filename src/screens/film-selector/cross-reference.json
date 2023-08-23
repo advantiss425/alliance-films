@@ -1,0 +1,505 @@
+{
+    "Intertape" : {
+        "Stretch Flex – SF1": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "Stretch Flex – SSC": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "Super Flex": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "Genesys": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine",
+            "url2": "steelflex-nano/"
+        },
+        "Genesys Ultra ": {
+            "recommend" : "Steelflex Xtreme nano",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-nano/",
+            "url2": "steelflex-nano/"
+        },
+        "Stretch Flex HWII": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Stretch Flex HWIV Hand": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Pro-Lite Hand ": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex-xtreme/",
+            "url2": "steelflex-xtreme/"
+        },
+        "Orbit Air Pre-Stretch": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        }
+    },
+
+    "Five Points" : {
+        "Armor Wrap": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Titan Wrap": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex-xtreme/",
+            "url2": "steelflex-xtreme/"
+        },
+        "Impact Pro": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "Impact Ultra": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "Impact Elite": {
+            "recommend" : "Steelflex Xtreme Nano",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-nano/",
+            "url2": "steelflex-nano/"
+        },
+        "Fierce Wrap": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        }
+    },
+    
+    "Amtopp" : {
+        "LoadStar Machine": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "EP Series Machine": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "EH Series Machine": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "LoadStar HLB/P Hand": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex-xtreme/",
+            "url2": "steelflex-xtreme/"
+        },
+        "HS Series Hand": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "HC Series Hand": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Apex Machine": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "Pallet Lock Pre Stretch": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        }
+    },
+
+    "Berry Plastics": {
+        "ADW Handwrap": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex-xtreme/",
+            "url2": "steelflex-xtreme/"
+        },
+        "Stratos": {
+            "recommend" : "Steelflex Xtreme Nano",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-nano/",
+            "url2": "steelflex-nano/"
+        },
+        "Transcend": {
+            "recommend" : "Steelflex Xtreme Nano",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-nano/",
+            "url2": "steelflex-nano/"
+        },
+        "R122": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "R122Q": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "TT": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "MP2": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "Fortitude": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "steelflex-xtreme/",
+            "url2": "duo-pre-stretch-nano/"
+        },
+        "WinLock": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        },
+        "HWX Hand": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "MaxTech QM1": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        }
+    },
+
+    "Sigma": {
+        "Classic Blown Hand": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Select Cast Machine": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "Supreme Blown Hand": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Steel Hand": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex-xtreme/",
+            "url2": "steelflex-xtreme/"
+        },
+        "World Wrap Hand": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Secure Blown Machine": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "Magnum Cast Machine": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "Summit Machine": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "Vortex Blown": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "Evolve": {
+            "recommend" : "Steelflex Xtreme Nano",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-nano/",
+            "url2": "steelflex-nano/"
+        },
+        "Sigma Stretched Hand": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        },
+        "Eco Supreme Hand": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        }
+    },
+
+    "Paragon": {
+        "Spartan Hand": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex-xtreme/",
+            "url2": "steelflex-xtreme/"
+        },
+        "Torque Oriented Hand": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        },
+        "Global Force": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "Cold Force": {
+            "recommend" : "Artic Nano",
+            "saving" : "Artic Nano",
+            "url1": "arctic-nano/",
+            "url2": "arctic-nano/"
+        },
+        "Nexus": {
+            "recommend" : "Steelflex Xtreme Nano",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-nano/",
+            "url2": "steelflex-nano/"
+        }
+    },
+
+    "ITW/Signode": {
+        "GaleWrap Oriented": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        },
+        "Eliminator": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "ST Machine": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "Accuwrap": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        }
+    },
+
+    "Val Film": {
+        "SAN Machine": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "SAP Machine": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "SAU Machine": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "SHN Hand": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "ValLock": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex-xtreme/",
+            "url2": "steelflex-xtreme/"
+        },
+        "Val 7 & 8 Pre Stretch": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        }
+    },
+
+    "Malpack": {
+        "MDX": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "Stretch Max": {
+            "recommend" : "Steelflex",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-2",
+            "url2": "steelflex-nano/"
+        },
+        "ProMax": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "Platinum Max": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine",
+            "url2": "steelflex-nano/"
+        },
+        "Axis 2.0": {
+            "recommend" : "Steelflex Xtreme Nano",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-nano/",
+            "url2": "steelflex-nano/"
+        },
+        "ColdMax": {
+            "recommend" : "Artic Nano",
+            "saving" : "Artic Nano",
+            "url1": "arctic-nano/",
+            "url2": "arctic-nano/"
+        },
+        "MaxWrap": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Platinum Max Hand": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex-xtreme/",
+            "url2": "steelflex-xtreme/"
+        },
+        "Vmaxx": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        }
+    },
+
+    "Western Plastics": {
+        "Eco-Max": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Pallet-Tite": {
+            "recommend" : "Steelflex Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex",
+            "url2": "steelflex-xtreme/"
+        },
+        "Pallet-Tite Machine": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        },
+        "XP Formula (Prestretch)": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        },
+        "Identi-Films (Colors)": {
+            "recommend" : "Spectrum Hand and Machine",
+            "saving" : "Spectrum",
+            "url1": "spectrum-colors/",
+            "url2": "spectrum-colors/"
+        },
+        "Securi-Wrap": {
+            "recommend" : "Spectrum Hand and Machine",
+            "saving" : "Spectrum",
+            "url1": "spectrum-colors/",
+            "url2": "spectrum-colors/"
+        },
+        "Hybrid 80": {
+            "recommend" : "Steelflex Xtreme Hand",
+            "saving" : "Steelflex Xtreme Hand",
+            "url1": "steelflex-xtreme/",
+            "url2": "steelflex-xtreme/"
+        },
+        "Hybrid 80 Plus": {
+            "recommend" : "Duo Nano Pre Stretch",
+            "saving" : "Duo Nano Pre Stretch",
+            "url1": "duo-pre-stretch-nano/",
+            "url2": "duo-pre-stretch-nano/"
+        },
+        "Perform XL": {
+            "recommend" : "Steelflex Xtreme",
+            "saving" : "Steelflex Xtreme Nano",
+            "url1": "steelflex-xtreme-machine/",
+            "url2": "steelflex-nano/"
+        }
+    }
+}
